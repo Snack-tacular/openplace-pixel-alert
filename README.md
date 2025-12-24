@@ -3,7 +3,9 @@
 
 Shows current & max Pixels<br/>
 Shows current cooldown for Pixels<br/>
-Shows HH:MM until Full<br/>
+Shows HH:MM until full<br/>
 Shows realtime until full<br/>
 Alarms you with a few beeps when full (Change volume by adjusting System sounds volume)<br/>
-Minimizes into tray, no taskbaricon<br/><br/>
+Minimizes into tray, no taskbaricon<br/>
+<br/>
+When you open it and click Login it will start chrome for you to login into openplace so it can read your openplace.live/me, couldn't figure out a way yet to use it without a browser.
